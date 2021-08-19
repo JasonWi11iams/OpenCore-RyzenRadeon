@@ -6,7 +6,7 @@ Also includes all files to make a GUI bootloader if dual booting with Windows.
 Follow this [guide](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html) to assist with getting things set up correctly.
 
 Tested to work on MacOS Catalina and Big Sur.
-Opencore Version = 0.6.7
+Opencore Version = 0.6.9
 
 
 # Working
